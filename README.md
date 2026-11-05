@@ -57,7 +57,7 @@ The application source code is is originally from [opentelemetry-demo](https://g
 
 ---
 
-### Screenshots
+### Few Screenshots
 
 #### Application Frontend
 
