@@ -1,0 +1,9 @@
+[submodule "e-commerce-devops-project-iac"]
+	path = e-commerce-devops-project-iac
+	url = https://github.com/tharix46/e-commerce-devops-project-iac
+[submodule "e-commerce-devops-project-k8s"]
+	path = e-commerce-devops-project-k8s
+	url = https://github.com/tharix46/e-commerce-devops-project-k8s
+[submodule "e-commerce-devops-project-src"]
+	path = e-commerce-devops-project-src
+	url = https://github.com/tharix46/e-commerce-devops-project-src
