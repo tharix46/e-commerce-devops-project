@@ -8,19 +8,19 @@ The application source code is is originally from [opentelemetry-demo](https://g
 
 ### Application Architecture
 
-![Architecture Diagram](./app-arch.svg)
+![Architecture Diagram](images/app-arch.svg)
 
 ---
 
 ### AWS Infrastructure
 
-![Infrastructure Diagram](./aws-arch.svg)
+![Infrastructure Diagram](images/aws-arch.svg)
 
 ---
 
 ### EKS Data Plane Architecture
 
-![Architecture Diagram](./k8s.svg)
+![Architecture Diagram](images/k8s.svg)
 
 ---
 
@@ -40,20 +40,20 @@ The application source code is is originally from [opentelemetry-demo](https://g
 
 > **Note**: This project has 20 microservices. CI/CD is configured to build and deploy only the `product catalog` microservice for demonstration purposes.
 
-![how it works](./how-it-works.svg)
+![how it works](images/how-it-works.svg)
 
 ---
 
 ### Tech Stack
 
-| Category                | Tools                    |
-| ----------------------- | ------------------------ |
-| Cloud                   | AWS (EKS, VPC, IAM, ALB) |
-| Infrastructure as Code  | Terraform                |
-| Container Orchestration | Kubernetes               |
-| CI                      | GitHub Actions           |
-| GitOps                  | ArgoCD                   |
-| Containerization        | Docker                   |
+| Category                | Tools          |
+| ----------------------- | -------------- |
+| Cloud                   | AWS            |
+| Infrastructure as Code  | Terraform      |
+| Container Orchestration | Kubernetes     |
+| CI                      | GitHub Actions |
+| GitOps                  | ArgoCD         |
+| Containerization        | Docker         |
 
 ---
 
@@ -61,20 +61,20 @@ The application source code is is originally from [opentelemetry-demo](https://g
 
 #### Application Frontend
 
-![Application Screenshot](./ss1.png)
+![Application Screenshot](images/ss1.png)
 
 #### Product Catalog
 
-![Application Screenshot](./ss2.png)
+![Application Screenshot](images/ss2.png)
 
-![Application Screenshot](./ss3.png)
+![Application Screenshot](images/ss3.png)
 
 #### Cart
 
-![Application Screenshot](./ss4.png)
+![Application Screenshot](images/ss4.png)
 
 #### ArgoCD Dashboard
 
-![ArgoCD Dashboard Screenshot](./ss-argo.png)
+![ArgoCD Dashboard Screenshot](images/ss-argo.png)
 
 ---
